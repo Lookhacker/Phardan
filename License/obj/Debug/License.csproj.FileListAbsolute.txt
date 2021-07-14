@@ -1,0 +1,26 @@
+D:\Pharmaed Plast Pouyan\PharmedPlastPouyan\License\bin\Debug\License.dll
+D:\Pharmaed Plast Pouyan\PharmedPlastPouyan\License\bin\Debug\License.pdb
+D:\Pharmaed Plast Pouyan\PharmedPlastPouyan\License\obj\Debug\License.csprojResolveAssemblyReference.cache
+D:\Pharmaed Plast Pouyan\PharmedPlastPouyan\License\obj\Debug\License.dll
+D:\Pharmaed Plast Pouyan\PharmedPlastPouyan\License\obj\Debug\License.pdb
+D:\Project\PharmedPlastPouyan\License\bin\Debug\License.dll
+D:\Project\PharmedPlastPouyan\License\bin\Debug\License.pdb
+D:\Project\PharmedPlastPouyan\License\obj\Debug\License.dll
+D:\Project\PharmedPlastPouyan\License\obj\Debug\License.pdb
+D:\Project\PharmedPlastPouyan\License\bin\Debug\Newtonsoft.Json.dll
+D:\Project\PharmedPlastPouyan\License\bin\Debug\Newtonsoft.Json.xml
+D:\Project\PharmedPlastPouyan\License\obj\Debug\License.csprojResolveAssemblyReference.cache
+D:\Project\Project\PharmedPlastPouyan\License\bin\Debug\License.dll
+D:\Project\Project\PharmedPlastPouyan\License\bin\Debug\License.pdb
+D:\Project\Project\PharmedPlastPouyan\License\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Project\PharmedPlastPouyan\License\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Project\PharmedPlastPouyan\License\obj\Debug\License.csprojResolveAssemblyReference.cache
+D:\Project\Project\PharmedPlastPouyan\License\obj\Debug\License.dll
+D:\Project\Project\PharmedPlastPouyan\License\obj\Debug\License.pdb
+D:\Project\Project\New folder\PharmedPlastPouyan\License\bin\Debug\License.dll
+D:\Project\Project\New folder\PharmedPlastPouyan\License\bin\Debug\License.pdb
+D:\Project\Project\New folder\PharmedPlastPouyan\License\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Project\New folder\PharmedPlastPouyan\License\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Project\New folder\PharmedPlastPouyan\License\obj\Debug\License.csprojResolveAssemblyReference.cache
+D:\Project\Project\New folder\PharmedPlastPouyan\License\obj\Debug\License.dll
+D:\Project\Project\New folder\PharmedPlastPouyan\License\obj\Debug\License.pdb
